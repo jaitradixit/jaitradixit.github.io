@@ -1,0 +1,23 @@
+#txt{
+	text-align: center;
+	left: 50%;
+	top: 50%;
+	font-size: 15px;
+	position: absolute;
+	transform: translateX(-50%) translateY(-50%);
+	font-size: 50px;
+	font-family: verdana;	
+	color: #FCFFF5;
+}
+
+#block{
+	height: 500px;
+	background-color: #102129;
+	margin-top: 7%;
+}
+
+body{
+	background-color: #3E606F;
+	padding: 0;
+	margin: 0;
+}
